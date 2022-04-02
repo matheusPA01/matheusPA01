@@ -1,12 +1,12 @@
 ### Olá! Sou o Matheus Prando Ávila 👋
 Comecei recentemente meus estudos em front-end e desejo estudar ReactJS e NodeJS futuramente. Nesse perfil vou colocar em prática tudo que eu aprender sobre HTML, CSS e JavaScript, e refazer alguns projetos quando eu tiver conhecimento em ReactJS e NodeJS. Atualmente estou estudando alguns cursos na Rocketseat.
 * 📖 Estudando front-end
-* 💎 Meu Linkedin: <a href="https://www.linkedin.com/in/matheuspa01/" target="_blank"> Matheus Prando Ávila </a>
+* 💎 Meu Linkedin: <a href="https://www.linkedin.com/in/matheuspa01/"> Matheus Prando Ávila </a>
 
 <div align="center">
   <a href="https://github.com/matheusPA01">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheusPA01&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusPA01&layout=compact&langs_count=7&theme=dark"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=matheusPA01&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusPA01&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline-block"> <br>
@@ -19,5 +19,5 @@ Comecei recentemente meus estudos em front-end e desejo estudar ReactJS e NodeJS
 ##
 
 <div>
-  <a href="https://www.linkedin.com/in/matheuspa01/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/matheuspa01/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
