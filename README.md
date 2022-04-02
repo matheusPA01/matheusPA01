@@ -1,16 +1,23 @@
-### Hi there 👋
+### Olá! Sou o Matheus Prando Ávila 👋
+Comecei recentemente meus estudos em front-end e desejo estudar ReactJS e NodeJS futuramente. Nesse perfil vou colocar em prática tudo que eu aprender sobre HTML, CSS e JavaScript, e refazer alguns projetos quando eu tiver conhecimento em ReactJS e NodeJS. Atualmente estou estudando alguns cursos na Rocketseat.
+* 📖 Estudando front-end
+* 💎 Meu Linkedin: <a href="https://www.linkedin.com/in/matheuspa01/"> Matheus Prando Ávila </a>
 
-<!--
-**matheusPA01/matheusPA01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://github.com/matheusPA01">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheusPA01&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusPA01&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-Here are some ideas to get you started:
+<div style="display: inline-block"> <br>
+  <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Matheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Matheus-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="right" alt="Horimiya-GIF" height="150"       src="https://cdn.discordapp.com/attachments/954719466011369522/959931624596848740/tumblr_73989d50fb84ac9f6518cef28bb81209_d6d52ffb_540.gif">
+</div>
+  
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://www.linkedin.com/in/matheuspa01/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
