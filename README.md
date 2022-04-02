@@ -5,8 +5,8 @@ Comecei recentemente meus estudos em front-end e desejo estudar ReactJS e NodeJS
 
 <div align="center">
   <a href="https://github.com/matheusPA01">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=matheusPA01&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusPA01&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheusPA01&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusPA01&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline-block"> <br>
