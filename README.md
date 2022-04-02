@@ -1,7 +1,7 @@
 ### Olá! Sou o Matheus Prando Ávila 👋
 Comecei recentemente meus estudos em front-end e desejo estudar ReactJS e NodeJS futuramente. Nesse perfil vou colocar em prática tudo que eu aprender sobre HTML, CSS e JavaScript, e refazer alguns projetos quando eu tiver conhecimento em ReactJS e NodeJS. Atualmente estou estudando alguns cursos na Rocketseat.
 * 📖 Estudando front-end
-* 💎 Meu Linkedin: <a href="https://www.linkedin.com/in/matheuspa01/"> Matheus Prando Ávila </a>
+* 💎 Meu Linkedin: <a href="https://www.linkedin.com/in/matheuspa01/" target="_blank"> Matheus Prando Ávila </a>
 
 <div align="center">
   <a href="https://github.com/matheusPA01">
