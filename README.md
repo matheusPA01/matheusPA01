@@ -1,23 +1,10 @@
-### Olá! Sou o Matheus Prando Ávila 👋
-Comecei recentemente meus estudos em front-end e desejo estudar ReactJS e NodeJS futuramente. Nesse perfil vou colocar em prática tudo que eu aprender sobre HTML, CSS e JavaScript, e refazer alguns projetos quando eu tiver conhecimento em ReactJS e NodeJS. Atualmente estou estudando alguns cursos na Rocketseat.
-* 📖 Estudando front-end
-* 💎 Meu Linkedin: <a href="https://www.linkedin.com/in/matheuspa01/"> Matheus Prando Ávila </a>
+<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
 
-<div align="center">
-  <a href="https://github.com/matheusPA01">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheusPA01&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusPA01&layout=compact&langs_count=7&theme=dark"/>
-</div>
+## Olá, meu nome é Matheus Prando 👋
 
-<div style="display: inline-block"> <br>
-  <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Matheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Matheus-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="Haikyuu-GIF" height="200" src="https://cdn.discordapp.com/attachments/954719466011369522/959944307756908634/haikyuu-hinata-shouyou.gif">
-</div>
-  
-##
+Front-end Developer, aprender é continuo 🚀 <br>
+<br>
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/matheuspa01/)
 
-<div>
-  <a href="https://www.linkedin.com/in/matheuspa01/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+## Tecnologias:
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
