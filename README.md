@@ -13,7 +13,7 @@ Comecei recentemente meus estudos em front-end e desejo estudar ReactJS e NodeJS
   <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Matheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Matheus-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="Horimiya-GIF" height="200"       src="https://cdn.discordapp.com/attachments/954719466011369522/959944307756908634/haikyuu-hinata-shouyou.gif">
+  <img align="right" alt="Haikyuu-GIF" height="200" src="https://cdn.discordapp.com/attachments/954719466011369522/959944307756908634/haikyuu-hinata-shouyou.gif">
 </div>
   
 ##
